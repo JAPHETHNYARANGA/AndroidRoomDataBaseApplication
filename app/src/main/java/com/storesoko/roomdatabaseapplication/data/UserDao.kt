@@ -1,4 +1,4 @@
-package com.storesoko.roomdatabaseapplication.Dao
+package com.storesoko.roomdatabaseapplication.data
 
 import androidx.lifecycle.LiveData
 import androidx.room.Insert
